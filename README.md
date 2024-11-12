@@ -17,8 +17,7 @@ FileSentry is a simple script designed to monitor the presence of a specific fil
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/SafeGuard.git
-    cd SafeGuard
+    git clone https://github.com/Shaunak-Natu/File-Sentry.git
     ```
 
 2. Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/).
